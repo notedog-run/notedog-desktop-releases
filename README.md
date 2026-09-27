@@ -22,3 +22,7 @@ Each release has a `SHA256SUMS` file to check the downloads.
 
 Notedog opens its Settings window. Enter your phone's address on the local
 network, your tunnel URL, or both, then approve the pairing on your phone.
+
+## License
+
+Free to use; not open source. See [LICENSE](LICENSE).
