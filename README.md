@@ -13,6 +13,10 @@ Get the files from [Releases](../../releases).
 
 - **Fedora:** `sudo dnf install ./notedog-desktop-<version>.x86_64.rpm`
 - **Debian / Ubuntu:** `sudo apt install ./notedog-desktop_<version>_amd64.deb`
+- **Arch / Omarchy:** `sudo pacman -U ./notedog-desktop-<version>-1-x86_64.pkg.tar.xz`
+- **Other Linux:** `notedog-desktop-<version>-x86_64.AppImage`. Make it
+  executable (`chmod +x`) and run it. It adds no launcher entry, and some
+  distros need FUSE 2 (`libfuse2`) to run AppImages.
 - **Windows:** run `notedog-desktop-<version>-setup.exe`. The installer isn't
   signed yet, so Windows SmartScreen warns: click **More info → Run anyway**.
 
