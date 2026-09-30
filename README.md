@@ -24,8 +24,13 @@ Each release has a `SHA256SUMS` file to check the downloads.
 
 ## First start
 
-Notedog opens its Settings window. Enter your phone's address on the local
-network, your tunnel URL, or both, then approve the pairing on your phone.
+Notedog opens its Settings window. Enter your phone's local IP address (just
+the IP, like `192.168.1.5`), your tunnel URL, or both, then approve the
+pairing on your phone. More on [notedog.run/desktop](https://notedog.run/desktop).
+
+## Feedback
+
+Found a problem? Please [open an issue](../../issues). Say which system you use and which version (it's in the file name).
 
 ## License
 
